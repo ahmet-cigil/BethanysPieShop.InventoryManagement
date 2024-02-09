@@ -1,0 +1,4 @@
+2;Flour;Consectetur Adipiscing;150;15;7;8;9;
+3;Milk;Sed Do Eiusmod Tempor;120;12;10;11;12;
+4;Eggs;Incididunt Ut Labore;180;18;13;14;15;
+5;Butter;Et Dolore Magna Aliqua;90;9;16;17;18;
