@@ -17,7 +17,7 @@ namespace BethanysPieShop.InventoryManagement.Domain.ProductManagement
                 StockTreshold = newStockTreshold;
             }
         }
-        private void UpdateLowStock()
+        public void UpdateLowStock()
         {
             if (AmountInStock < 10) // for now a fixed value
             {
